@@ -1,4 +1,4 @@
-\# 🧠 Intrusion Detector ML  
+\# Intrusion Detector ML  
 
 \*A Deep-Learning–Based Intrusion Detection Framework using TabNet and TabTransformer\*
 
@@ -8,7 +8,7 @@
 
 
 
-\## 🔍 Overview
+\## Overview
 
 This project implements an interpretable \*\*Deep Learning Intrusion Detection System (IDS)\*\* built on \*\*TabNet\*\* and \*\*TabTransformer\*\* architectures.  
 
@@ -24,7 +24,7 @@ The work explores how deep models such as \*\*TabNet\*\*, \*\*CNN-1D\*\*, and \*
 
 
 
-\## 🎯 Research Motivation
+\## Research Motivation
 
 Traditional ML-based IDS (SVM, Random Forest, Gradient Boost) struggle with:
 
@@ -52,7 +52,7 @@ This project addresses these issues by:
 
 
 
-\## 🧩 Proposed Framework
+\## Proposed Framework
 
 The system workflow includes:
 
