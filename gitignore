@@ -1,0 +1,72 @@
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+env/
+venv/
+.venv/
+ENV/
+pip-wheel-metadata/
+
+# --- Build and packaging ---
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+
+# --- Machine Learning / Data ---
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.csv
+*.json
+*.db
+*.sqlite3
+*.model
+*.npy
+*.npz
+
+# --- Logs and runtime files ---
+*.log
+*.tmp
+*.bak
+*.swp
+nohup.out
+.DS_Store
+
+# --- IDE and Editor Files ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Flask / Streamlit / Web ---
+instance/
+*.db-journal
+*.sqlite
+__pycache__/
+*.env
+.env
+*.secret
+*.pem
+*.crt
+*.key
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# --- System Files ---
+Thumbs.db
+desktop.ini
+
+# --- OS cache ---
+.DS_Store
+ehthumbs.db
+Icon?
